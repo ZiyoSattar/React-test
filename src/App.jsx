@@ -16,7 +16,7 @@ function App() {
       <div className="header__intro">
         <a className="image" href="#logo"><img src={myImage} alt="site logo">
           </img></a>
-
+    {/* test */}
         <nav className="header__navbar">
           <ul className="header__list">
             <li className="header__item"><a className="header__link" href="#asd">Home</a></li>
